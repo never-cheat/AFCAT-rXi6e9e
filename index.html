@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charlie AFCAT-1 2026 - All Subjects Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Charlie AFCAT-1 2026 Course Portal</h1>
+            <p class="subtitle">WELCOME ALL MY DEAR AFCAT ASPIRANTS</p>
+        </header>
+
+        <div class="search-container">
+            <input 
+                type="text" 
+                id="searchInput" 
+                class="search-input" 
+                placeholder="Search for classes..."
+                autocomplete="off"
+            >
+        </div>
+
+        <div class="filter-container">
+           <button class="filter-btn active" data-category="all">All Subjects</button>
+            <button class="filter-btn" data-category="Batchsheet">Batchsheet</button>
+            <button class="filter-btn" data-category="Biology">Biology</button>
+            <button class="filter-btn" data-category="English">English</button>
+            <button class="filter-btn" data-category="English Practice">English Practice</button>
+            <button class="filter-btn" data-category="One Pager">One Pager</button>
+        </div>
+
+        <div class="stats-container">
+            <div class="stat-card">
+                <span class="stat-number" id="totalClasses">0</span>
+                <span class="stat-label">Total Classes</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="visibleClasses">0</span>
+                <span class="stat-label">Showing</span>
+            </div>
+        </div>
+
+        <div class="course-grid" id="courseGrid">
+        </div>
+
+        <div class="no-results" id="noResults" style="display: none;">
+            <p>No classes found matching your search.</p>
+        </div>
+
+        <footer class="footer">
+            <div class="footer-text">CdsJourney - Your Path to Success</div>
+        </footer>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>
