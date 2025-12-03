@@ -1,9 +1,9 @@
 const courses = [
     {
         number: 1,
-        title: "",
-        category: "",
-        videoUrl: ""
+        title: "Percentage Class 1",
+        category: "Maths",
+        videoUrl: "https://us06web.zoom.us/rec/share/IbCBywGgKwJQNXjN3GF5l7YxmpknOKqIcazi_cxTzRloTSKbvugkTHTvxJeZjMcM.l8P7kShToCoE4gXL"
     },
  ]; 
 
