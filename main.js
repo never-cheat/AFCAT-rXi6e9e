@@ -208,6 +208,73 @@ const courses = [
         title: "Number System - Remainder Theorem + Doubts ",
         category: "Maths",
         videoUrl: 'https://us06web.zoom.us/rec/share/C2nrzb-NwClYtVrll1Yl-oNCHs7zIBz3WCO7B3fg4PfdFghc3gdy90BsKLRdGlrr.RFZi-fz_XFv3FCyf'
+      },
+       
+    {
+        number: 1,
+        title: "Khooni Rishtein - episode 1 (Part 1)",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/0rlwMUsP2pwpQVo5O0oTgm40FMtpuyBKCs-ZY7gm2pUaze-8yFjAaufUpmhuSXZT.kgtluX_fuNrx17uO'
+    },
+    {
+        number: 2,
+        title: "Khooni Rishtein - episode 1 (partc2)",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/c6G9RP6bO2rg6iB9GJaYG5GqM2j4Zj0vhrSaqFq_I1PC4nBgGmCoeSfCV4nJY_sP.L3vIiXhcIK33_A1Z'
+     },
+     {
+     number: 3,
+        title: "Khooni Rishtein - episode (part 3)",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/ad-gaOMSK6oiLEUUAoe0-kpeQUiLW51OniKT0f0sJiSrCsHgGe9eHWUVpxtBsuTZ.Ysdh9DfkwEZFYHSM'
+     },
+     {
+        number: 4,
+        title: "Seating arrangement",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/M50dq320g2zvRWD7jjOBPWQE3SdyMDxqL7XJr78IoFPw2TwpbIOUxjZ6AvlSRbXQ.H2WXe5insZamsuRi'
+      },
+     {
+        number: 5,
+        title: "Seating arrangment - doubts",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/GmKEyVndeJE56w1VL-AuWF3UPchHyLqv2mfTpY_SRLQWa5JU4-QLR3d6mxdmnxTF.2fMLhn7UOw7JMyGB?startTime=1764154867000'
+      },
+     {
+        number: 6,
+        title: "Jumbled words",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/GmKEyVndeJE56w1VL-AuWF3UPchHyLqv2mfTpY_SRLQWa5JU4-QLR3d6mxdmnxTF.2fMLhn7UOw7JMyGB?startTime=1764157522000'
+      },
+     {
+        number: 7,
+        title: "Ranking Class 1",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/F-EQUz4XHx5FGxzQgbRiM37s4l5qAjlQGy7XVisIxW-4F48mqyHbn0aptcwnCJY.xUEBPcUtJqO7iPab'
+      },
+     {
+        number: 8,
+        title: "Ranking doubt class",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/XeW6lYrAnSyqQgg_gaUEv6BtWlUiVgCWhuhjQ3nS56PmyoNj6DPFAIzAUthAWuGy.K5X9Qa2OmJcTjyTT'
+      },
+     {
+        number: 9,
+        title: "Dice",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/SdbvS6FBT8uZbCBH_GHWzJYQrxPxLSlo0LVjwfvszL4JWPoo664xjiKTLBEJVNJI.QkU5giSghPV4xD_v'
+      },
+     {
+        number: 10,
+        title: "Venn Diagram",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/XdXUxK8a-VykxexsuaTCWmiJ67EAKsRSK1xGkUAyVD3LPgwgpRxz6iuwYABURoqd.N3NgpGq0UDdF1G7z'
+      },
+     {
+        number: 11,
+        title: "Venn Diagram + Syllogism",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/zCUET6f6m4kQJ8-iFVCprNdg7lEkmvsrDnfaV3axsD-2wpY6CDiA49e7AOyPn1Yk.30P2DU56jlAByKZc'
       }
  ]; 
 
