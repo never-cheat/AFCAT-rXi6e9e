@@ -275,7 +275,116 @@ const courses = [
         title: "Venn Diagram + Syllogism",
         category: "Reasoning",
         videoUrl: 'https://us06web.zoom.us/rec/share/zCUET6f6m4kQJ8-iFVCprNdg7lEkmvsrDnfaV3axsD-2wpY6CDiA49e7AOyPn1Yk.30P2DU56jlAByKZc'
-      }
+      },
+      {
+        number: 1,
+        title: "100 Idooms and phrases",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/Mx5paNHKGTGi-YS6ujOwFAd0orLnoaYFolGcGPmrlrSnEwdnNhcH5s41-_9ObKFN.nEWl6HQheSGWnS50'
+      },
+      {
+        number: 2,
+        title: "100 Idioms and phrases - Complete",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/BOlwGIWcQqmHC9WoM8FvgJ8FSBMJ_fex_VeEPM3Mp-4_M7eaJIvhcq0Xv38CUlpQ.XY2MovxWdfF-1i5B'
+      },
+      {
+        number: 3,
+        title: "Grammar rules 1-7",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/-9gYy76fY6gtwqDXXpGMFlyxYPk1dB9SEXiz9ayWaVqMD9NKgjZ-B4aga-PW3e20.N__cryJ8afKnQkhG'
+      },
+      {
+        number: 4,
+        title: "Grammar rules 8-14",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/J-UUU5uUm8-KrIehkSxnNOSSql-QnzwELJ86B27I7zQ4vdEzjkKbzlkWAS9VkEKO.3pX0hT8uTRHy_4TB'
+      },
+      {
+        number: 5,
+        title: "Grammar Rules 15-21 (Sub - verb)",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/qWUirWLj9_-EKVg6sgXHSUngPgeaIs9l5AzHHidYXIC-guTadt_8ardQm6SiVyo3.INnfoBtXJBeqoM0M'
+      },
+      {
+        number: 6,
+        title: "Grammar Rules 22-27 (Modal Verbs) ",
+        category: "English",
+        videoUrl: "https://us06web.zoom.us/rec/share/ZhRbhHP4NwKKoikCCG1XGKS8zg87SYRGg-X8_XFHWgQwkrhjsdBpjcT-ubdiRSkK.Qr9wfZUCnnDJ440a"
+      },
+       {
+        number: 7,
+        title: "Grammar Rules 26-36",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/zrXKzr1BzpECKR8uMxz8dnm8LHbwpPFLgWHZnwHjHgJzhjCYBfmYpzgdvGQh1I8e.9NL3KtHeqfWPX4cc'
+      },
+      {
+        number: 8,
+        title: "Grammar Rules 37-50",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/1kNVZ9lYLgJ-Qkz81ik9dTiEANOmZDDhOdBLPAE_JegwTtWL51V7M7gyONaJv-_9.1vmFi5Pv7xT6DgZw'
+      },
+      {
+        number: 9,
+        title: "Grammar Rules 51-71",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/6NoDpnFy6JzRXqncBTm_b06CbmJDaIVdsbT2AORjQghgiE7pUEBlWFtrdWdLvzwS.ktMVu1QUwggJ8U00'     
+      },
+      {
+        number: 10,
+        title: "Grammar Rules 71-91",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/RTNvkjyTkdylfv7f76nkO7EDS4L_issYc6zj46F2pAVAZXh2iU24WCL5qsL2NaEJ.UFeWpYfDt20DRu-9'
+      },
+      {
+        number: 11,
+        title: "Grammar Rules 91-100",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/xKSHa_y_ZtMe4docIpvh632vefP3lpZSKR6Q_5vGIRKQnibqOtt4A6HBo5gtZsrj.oFG61TCzoAxGE12J?startTime=1764846129000'
+      },
+      {
+        number: 12,
+        title: "One word substitution Class 1",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/xKSHa_y_ZtMe4docIpvh632vefP3lpZSKR6Q_5vGIRKQnibqOtt4A6HBo5gtZsrj.oFG61TCzoAxGE12J?startTime=1764848276000'
+      },
+      {
+        number: 13,
+        title: "Homonyms",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/8I9fGtWjqNerGmSjwe6mqJbsXIOmTLneWWKDxvUr5BjsGWn2oPCV1otqmkZZ1VMB.ahgCwor0plM_9ZrM?startTime=1765378017000'
+      },
+      {
+        number: 14,
+        title: "One word substitution - Class 2",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/HRItieNzQOSFHX87etp-b7k1T50kFnFzItq4euKaSQ3WmG_J4n2J5jGrazgP7NQ.kq9eaF1-LamfLCo6'
+      },
+      {
+        number: 15,
+        title: "Practice Set 1",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/qW-CTRfHbChzRPCkCrnjDWopINLbzZWBcs92tQRmAJRF1j5YhOCKHfd9i6Y9FOI1.ej3U6F-OM2MomEPj'
+      },
+      {
+        number: 16,
+        title: "Vocab Class 1",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/i-myNcYv2s494nBqrzcBYy04tiHDioYWUJtK4Rb97ZObMhfq-Fh5Xk3Dp4nX7RB0.tDRvMgqNqLHbCm4R'
+      },
+      {
+        number: 17,
+        title: "Vocab Class 2",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/Uy-Zd_5FzQiSd2cj98_LqNj7lHUqRZv7mKFLpN0hBtT_D0askvzYWM4XwWFoMEbO.zi76Mu2BIRQj58Lw'
+      },
+      {
+        number: 18,
+        title: "Vocab Class 3",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/uFvl0Q-SjF-sW5sq31h45RKkcM75Va0x9qyJLr6RBBqD7XZpAiN5wSi6uD8qzt_C.i5SbW2ZYW7DrlfN-'
+      },
+      
  ]; 
 
 let currentCategory = 'all';
