@@ -414,7 +414,12 @@ const courses = [
         category: "General Awareness",
         videoUrl: 'https://us06web.zoom.us/rec/share/GYIcQXDkmMYh6O5ZeDoCpqums2L-gbGhq41TEQ64lSjccykStmIfJe4b7_hi1ksz.-jPKJOCpWlizwTXg'
       },
-      
+      {
+        number: 36,
+        title: "Average Class 1",
+        category: "Maths",
+        videoUrl :'https://us06web.zoom.us/rec/share/YATVx6OSCm-e02NbFuuC89q1klSLu3GV1zVAOl7n15f_hS-K1ImD6EkFrf7dS0FP.cQMHXduomtZor3Sk'
+      },
       
  ]; 
 
