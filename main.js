@@ -384,6 +384,37 @@ const courses = [
         category: "English",
         videoUrl: 'https://us06web.zoom.us/rec/share/uFvl0Q-SjF-sW5sq31h45RKkcM75Va0x9qyJLr6RBBqD7XZpAiN5wSi6uD8qzt_C.i5SbW2ZYW7DrlfN-'
       },
+           {
+        number: 1,
+        title: "Science - Class 1",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/5f7eL2zjQj8StP_JfLta7raEijnUhXILupe-0ZhuKkP1FcafZ_nP9cYUItEIgk-e.29-6CkPSfDpYgGVC'
+      },
+      {
+       number: 2,
+        title: "Science Class 2",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/11FTNPmwtRAcliWIFomIHigkgvZahYvYc3JrT5m8wMRmQragiaN73NbYC8fj5HA.McTNnG8AIQF22Oxx'
+      },
+      {
+       number: 3,
+        title: "Environment Class",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/FYfXdkj1lEWYDWy1WEUYBhKqvG68K5d8rHJAwVtBxxXFdSyUq8YrWu9wYlaOn81J.5aj5GLU9bOTZHA-y'
+      },
+     {
+       number: 4,
+        title: "Defence Class 1",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/cZX7EQ47KhWRy1CuHIskxORvaBD7QQNrMqjXw___2xHIcr1wa2r-ccuaxhutD7JH.en9tPP_tsvtUznUW?startTime=1765189861000'
+      },
+     {
+       number: 5,
+        title: "AFCAT 1 2026 Current Affairs 1",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/GYIcQXDkmMYh6O5ZeDoCpqums2L-gbGhq41TEQ64lSjccykStmIfJe4b7_hi1ksz.-jPKJOCpWlizwTXg'
+      },
+      
       
  ]; 
 
