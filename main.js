@@ -420,7 +420,144 @@ const courses = [
         category: "Maths",
         videoUrl :'https://us06web.zoom.us/rec/share/YATVx6OSCm-e02NbFuuC89q1klSLu3GV1zVAOl7n15f_hS-K1ImD6EkFrf7dS0FP.cQMHXduomtZor3Sk'
       },
-      
+     {
+       number: 6,
+        title: "Polity Class 1",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/L6aDyX6qp9zLXzIb2opfTlMROfUKZVNj8ynwvbDP6W_ItEM67ksbgVbrx4I69-wO.zGO4U4Yej7I7x53y'
+      },
+     {
+       number: 7,
+        title: "Polity Class 2",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/FfV_Yx5A60WtbaaqjJnS60j0oaQFgkWvEzGlmoZqnb0sIZrisC6pTxPYmIxlREqN.uqxr9hxeziLh0Fru'
+      },
+     {
+       number: 8,
+        title: "Polity Class 3",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/SV9WYbk3UdaV9cwdD1HcXGv6iUlqOfmR1LZH084-7R_GKf35RPiclYM3TCibTAEq.ghofgjlyZM3xBv7i'
+      },
+     {
+       number: 9,
+        title: "AFCAT 1 2026 Current Affairs 2",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/v1BQVkUfg-NJnbf715oxMUn8kCiH2MfawrQx_VRGJfYyilYjU37neZlYUD8LWTvL.5aj5aIb7vacnUJ6N?startTime=1768304750000'
+      },
+     {
+       number: 10,
+        title: "Research Institute",
+        category: "General Awareness",
+        videoUrl: 'https://us06web.zoom.us/rec/share/LBxCKa5dhOrWzdptcgvPT-gQJsLEMiKZ8Vii81sfG7m-6BOxLmOTsFBZdGeTfA8u.FrK6LQtp9rpQFGTY?startTime=1768474842000'
+      },
+     {
+       number: 11,
+        title: "Superlative And First Kaun",
+        category: "General Awareness",
+        videoUrl:  'https://us06web.zoom.us/rec/share/LBxCKa5dhOrWzdptcgvPT-gQJsLEMiKZ8Vii81sfG7m-6BOxLmOTsFBZdGeTfA8u.FrK6LQtp9rpQFGTY?startTime=1768475835000'
+      },
+     {
+       number: 12,
+        title: "Important Books and authors",
+        category: "General Awareness",
+        videoUrl:  'https://us06web.zoom.us/rec/share/IV4-kTdZhOTuohdq_6xW4NnJV32gkBFQ1-DD3aSKzNb-hPFtaHdgN8N2Sfon_tp4.BvYE8Q83LidJnvDX'
+      },
+     {
+       number: 12,
+        title: "Missung Number",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/XnEvvMnU0lngabXZlXXOOA-t3kzbRRGLv2ietxpizeKcGQ8gdwy7PNt8Xpf9lCOe.Df_nP-RpnbAG3yFO'
+      },
+      {
+        number: 13,
+        title: "Calendar Ji 1",
+        category: "Reasoning",
+        videoUrl:  'https://us06web.zoom.us/rec/share/ijtltXe86TAKpJNOoPuqpqMh76JryxZ5q3I8mcr8Gzb3YQAby_SpoFGutLAgmko.gl2OhpmO3l-_8aEw'
+      },
+      {
+       number: 14,
+        title: "Calendar Doubts",
+        category: "Reasoning",
+        videoUrl: 'https://us06web.zoom.us/rec/share/v1BQVkUfg-NJnbf715oxMUn8kCiH2MfawrQx_VRGJfYyilYjU37neZlYUD8LWTvL.5aj5aIb7vacnUJ6N?startTime=1768302384000'
+      },     
+     {
+       number: 37,
+        title: "LCM & HCF",
+        category: "Maths",
+        videoUrl: 'https://us06web.zoom.us/rec/share/yRo8NeF3sW0fWBHZ-Yi6iMlyWC88bweJ4DxEDMTQiS8lcIi71FxzuvwwLRB1gfbD.IgjcOhbvrsRNolNn'
+      },
+     {
+       number: 38,
+        title: "LCM & HCF Class 2",
+        category: "Maths",
+        videoUrl:, 'https://us06web.zoom.us/rec/share/McEl6mKU-LR99kPeGFKqU26iagMBfiZ4ifIQT_MNh2fTkCPirewyfmGQ77hsrE57.WjIzVYuRrXiJmNT0'
+      },
+     {
+       number: 39,
+        title: "Mensuration Class 1",
+        category: "Maths",
+        videoUrl: 'https://us06web.zoom.us/rec/share/ecRPwg7D3-0MUYZv_M7008KxJPrD6mDIYFmFS5rspXAbeu0JQ_3asSilSimMegMI.G79zLI0Ifk2zWJrp'
+      },
+     {
+       number: 40,
+        title: "Mensuration Class 2",
+        category: "Maths",
+        videoUrl: 'https://us06web.zoom.us/rec/share/5itcFRKGNBuOvEEHug3Qno4Eaziskizhiggig4KvCgrb4u4rLhlEpCYe_ZKPXXvU.xS2_hEe0VtWacTBW'
+      },
+     {
+       number: 41,
+        title: "Mensuration Class 3",
+        category: "Maths",
+        videoUrl:'https://us06web.zoom.us/rec/share/jz3RiD5L-hH87BOsBPa9AMEp2PM9UItnTMO6o7D9tgzMbbQeJc-PohyuN-ZOFhrv.YGaQDOVy-1n6GRKr'
+      },
+     {
+       number: 42,
+        title: "Statistics 1",
+        category: "Maths",
+        videoUrl:'https://us06web.zoom.us/rec/share/U3xAxbJ7g6KYehfQwObMPcZ-wm3k3CCvBiOZIpTN1c6HgVVDqBiFrpxtFJ2J4TA.ZVN1fNgdQM5YnZ3T'
+      },
+     {
+       number: 43,
+        title: "Statistics 2",
+        category: "Maths",
+        videoUrl:'https://us06web.zoom.us/rec/share/SuEwzZVYdC7-78_hzyMtxC8w9QaagcNYPDHiL6vTQrBFakZx-MkxOGa1kAV9FZNN.d6xCcxS3SM7oJk2H'
+      },
+     {
+       number: 44,
+        title: "Probability Class 1",
+        category: "Maths",
+        videoUrl: 'https://us06web.zoom.us/rec/share/lyBV05WSVcWFULJ5RTNWsYCw2peu3RrW4E4F7AA30z3Fr4BPxDohZhddJQwtFC9W.ewUZEioSFFEu5NqV'
+      },
+     {
+       number: 45,
+        title: "Probability Class 2",
+        category: "Maths",
+        videoUrl:'https://us06web.zoom.us/rec/share/OhGdO3SA4gas6xQprYq3wl-WYgUAFlgpWZUnp4kn8T0aIbvF_qLEKqCVnPdZYVvT.Cgkeqnj8U8tlWY77'
+      },
+     {
+       number: 46,
+        title: "Doubt Class - Probability + Statistics",
+        category: "Maths",
+        videoUrl: 'https://us06web.zoom.us/rec/share/6iODxTmIKef8pfwvJN3RUm77GUDPrM5kWhtHFVmP96LhNWJD5us1l0h9u8gafcPj.fQYFs0Irm3dYSkVY'
+      },
+     {
+       number: 47,
+        title: "Live practise session 1",
+        category: "Maths",
+        videoUrl:'https://us06web.zoom.us/rec/share/qyNJZU51XP8tGJwqAS8ShFr_VnerplFqWLIarSDNalq_QLwH-tOZAwdntCfa8UWM.7u6hCEOUlB5xFmCE'
+      },
+     {
+       number: 48,
+        title: "Practice set 1 & 2 Solution",
+        category: "Maths",
+        videoUrl:'https://us06web.zoom.us/rec/share/7b7gKpHvS7cx0-COnx0DYMLNKvCjFM4WqEjSbapH6Uks4SX9dQbvKHPCNIKxFdzw.cThLgC0Pllp2-9no'
+      },
+     {
+       number: 49,
+        title: "Partnership",
+        category: "Maths",
+        videoUrl: 'https://us06web.zoom.us/rec/share/j5ErjJVGb7xPybhGf19HIQpOV2vfZUZL23JC5V3I-geIofhG0l1_M1DOiCsy0mlg.c6xmKYIsYKtYkXbD'
+      },
  ]; 
 
 let currentCategory = 'all';
