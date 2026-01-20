@@ -95,7 +95,7 @@ const courses = [
         category: "Maths",
         videoUrl: 'https://us06web.zoom.us/rec/share/bmdV2bkm9caKdIY6iwpeiTKXCRapCSkFTqLRnztj-dRW2g8NHS2nGX-pp7f8H72v.XobQ6AlHHradH3RI'
       },
-{
+      {
         number: 17,
         title: "Speed, Distance and Time Class 1 ",
         category: "Maths",
@@ -208,8 +208,7 @@ const courses = [
         title: "Number System - Remainder Theorem + Doubts ",
         category: "Maths",
         videoUrl: 'https://us06web.zoom.us/rec/share/C2nrzb-NwClYtVrll1Yl-oNCHs7zIBz3WCO7B3fg4PfdFghc3gdy90BsKLRdGlrr.RFZi-fz_XFv3FCyf'
-      },
-       
+      },  
     {
         number: 1,
         title: "Khooni Rishtein - episode 1 (Part 1)",
@@ -384,7 +383,7 @@ const courses = [
         category: "English",
         videoUrl: 'https://us06web.zoom.us/rec/share/uFvl0Q-SjF-sW5sq31h45RKkcM75Va0x9qyJLr6RBBqD7XZpAiN5wSi6uD8qzt_C.i5SbW2ZYW7DrlfN-'
       },
-           {
+      {
         number: 1,
         title: "Science - Class 1",
         category: "General Awareness",
@@ -418,7 +417,7 @@ const courses = [
         number: 36,
         title: "Average Class 1",
         category: "Maths",
-        videoUrl :'https://us06web.zoom.us/rec/share/YATVx6OSCm-e02NbFuuC89q1klSLu3GV1zVAOl7n15f_hS-K1ImD6EkFrf7dS0FP.cQMHXduomtZor3Sk'
+        videoUrl: 'https://us06web.zoom.us/rec/share/YATVx6OSCm-e02NbFuuC89q1klSLu3GV1zVAOl7n15f_hS-K1ImD6EkFrf7dS0FP.cQMHXduomtZor3Sk'
       },
      {
        number: 6,
@@ -490,7 +489,7 @@ const courses = [
        number: 38,
         title: "LCM & HCF Class 2",
         category: "Maths",
-        videoUrl:, 'https://us06web.zoom.us/rec/share/McEl6mKU-LR99kPeGFKqU26iagMBfiZ4ifIQT_MNh2fTkCPirewyfmGQ77hsrE57.WjIzVYuRrXiJmNT0'
+        videoUrl: 'https://us06web.zoom.us/rec/share/McEl6mKU-LR99kPeGFKqU26iagMBfiZ4ifIQT_MNh2fTkCPirewyfmGQ77hsrE57.WjIzVYuRrXiJmNT0'
       },
      {
        number: 39,
@@ -532,7 +531,7 @@ const courses = [
        number: 45,
         title: "Probability Class 2",
         category: "Maths",
-        videoUrl:'https://us06web.zoom.us/rec/share/OhGdO3SA4gas6xQprYq3wl-WYgUAFlgpWZUnp4kn8T0aIbvF_qLEKqCVnPdZYVvT.Cgkeqnj8U8tlWY77'
+        videoUrl: 'https://us06web.zoom.us/rec/share/OhGdO3SA4gas6xQprYq3wl-WYgUAFlgpWZUnp4kn8T0aIbvF_qLEKqCVnPdZYVvT.Cgkeqnj8U8tlWY77'
       },
      {
        number: 46,
@@ -544,7 +543,7 @@ const courses = [
        number: 47,
         title: "Live practise session 1",
         category: "Maths",
-        videoUrl:'https://us06web.zoom.us/rec/share/qyNJZU51XP8tGJwqAS8ShFr_VnerplFqWLIarSDNalq_QLwH-tOZAwdntCfa8UWM.7u6hCEOUlB5xFmCE'
+        videoUrl: 'https://us06web.zoom.us/rec/share/qyNJZU51XP8tGJwqAS8ShFr_VnerplFqWLIarSDNalq_QLwH-tOZAwdntCfa8UWM.7u6hCEOUlB5xFmCE'
       },
      {
        number: 48,
@@ -557,7 +556,7 @@ const courses = [
         title: "Partnership",
         category: "Maths",
         videoUrl: 'https://us06web.zoom.us/rec/share/j5ErjJVGb7xPybhGf19HIQpOV2vfZUZL23JC5V3I-geIofhG0l1_M1DOiCsy0mlg.c6xmKYIsYKtYkXbD'
-      },
+      }
  ]; 
 
 let currentCategory = 'all';
